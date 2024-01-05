@@ -1,7 +1,8 @@
 repo_name: KelsonMartins/hello-github-actions
 report_id: 452a92da29529712d5eb3c42e8708206
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-03T10:22:00+00:00'
+timestamp: '2024-01-05T08:29:07+00:00'
 requested_by: hectorsector
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/KelsonMartins/hello-github-actions
   detection_source: Repo Metadata
